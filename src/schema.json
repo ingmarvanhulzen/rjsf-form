@@ -1,0 +1,268 @@
+{
+  "title": "Depressieveklachten",
+  "required": [
+    "7ec40e06-60e4-4a3d-9feb-ddd75cb1587b",
+    "2ac234f6-3490-4087-9e57-692c75ae3a2a",
+    "6c5e2bb8-0e66-41a4-835f-72d511ec5c29",
+    "eee5a0e2-726c-477e-b8df-772066bf3e3d",
+    "d94c5569-9f88-4775-94a3-fb4dd1800398",
+    "43cfbc59-6794-436c-9b87-d119034faec5",
+    "ab0aacc5-7fc8-493d-b742-552de68adfef",
+    "dcc054d8-c611-4b96-b684-f760bb92b266",
+    "403de63a-21b6-46a9-bc39-beb26e7938bb",
+    "ca90eb53-dee8-43b7-a745-81ecad351136",
+    "d1e1c3cc-f358-4367-b667-fc9cd9628e70",
+    "815d0098-7b28-43d1-983b-3d585b97c995",
+    "26c6cfb0-9ff5-488d-8de8-f2f4fae06f2d",
+    "b8d26e70-031c-4f61-bd78-5204e83edb25",
+    "63040bff-8afc-48a0-8541-b047220902f0",
+    "866e9718-bfe5-4e50-bf7f-e86535fa736d",
+    "a41cd256-c73b-452c-a73e-d0d1b9719a96",
+    "e5869d01-466a-4df4-a15b-6827bea44fba",
+    "94999b43-88fd-465e-bd0d-abbf11dfe616",
+    "eada43fc-f4e6-43a7-abd1-4dbb6e2cb0be"
+  ],
+  "type": "object",
+  "properties": {
+    "dcc054d8-c611-4b96-b684-f760bb92b266": {
+      "title": "8. Tijdens afgelopen week had ik goede hoop voor de toekomst.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "a41cd256-c73b-452c-a73e-d0d1b9719a96": {
+      "title": "17. Tijdens afgelopen week had ik huilbuien.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "94999b43-88fd-465e-bd0d-abbf11dfe616": {
+      "title": "19. Tijdens afgelopen week had ik het gevoel dat mensen me niet aardig vonden.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "63040bff-8afc-48a0-8541-b047220902f0": {
+      "title": "15. Tijdens afgelopen week waren de mensen onaardig.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "ca90eb53-dee8-43b7-a745-81ecad351136": {
+      "title": "10. Tijdens afgelopen week voelde ik me bang.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "26c6cfb0-9ff5-488d-8de8-f2f4fae06f2d": {
+      "title": "13. Tijdens afgelopen week praatte ik minder dan gewoonlijk.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "d1e1c3cc-f358-4367-b667-fc9cd9628e70": {
+      "title": "11. Tijdens afgelopen week sliep ik onrustig.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "403de63a-21b6-46a9-bc39-beb26e7938bb": {
+      "title": "9. Tijdens afgelopen week vond ik mijn leven een mislukking.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "eada43fc-f4e6-43a7-abd1-4dbb6e2cb0be": {
+      "title": "20. Tijdens afgelopen week kon ik maar niet op gang komen.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "d94c5569-9f88-4775-94a3-fb4dd1800398": {
+      "title": "5. Tijdens afgelopen week had ik moeite mijn gedachten bij mijn bezigheden te houden.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "43cfbc59-6794-436c-9b87-d119034faec5": {
+      "title": "6. Tijdens afgelopen week voelde ik me gedeprimeerd.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "7ec40e06-60e4-4a3d-9feb-ddd75cb1587b": {
+      "title": "1. Tijdens afgelopen week stoorde ik me aan dingen die me gewoonlijk niet storen.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "815d0098-7b28-43d1-983b-3d585b97c995": {
+      "title": "12. Tijdens afgelopen week was ik gelukkig.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "ab0aacc5-7fc8-493d-b742-552de68adfef": {
+      "title": "7. Tijdens afgelopen week had ik het gevoel dat alles wat ik deed me moeite kostte.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "6c5e2bb8-0e66-41a4-835f-72d511ec5c29": {
+      "title": "3. Tijdens afgelopen week bleef ik maar in de put zitten, zelfs als familie of vrienden probeerden me eruit te halen.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "b8d26e70-031c-4f61-bd78-5204e83edb25": {
+      "title": "14. Tijdens afgelopen week voelde ik me eenzaam.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "eee5a0e2-726c-477e-b8df-772066bf3e3d": {
+      "title": "4. Tijdens afgelopen week voelde ik me evenveel waard als ieder ander.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "e5869d01-466a-4df4-a15b-6827bea44fba": {
+      "title": "18. Tijdens afgelopen week was ik treurig.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "866e9718-bfe5-4e50-bf7f-e86535fa736d": {
+      "title": "16. Tijdens afgelopen week had ik plezier in het leven.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    },
+    "2ac234f6-3490-4087-9e57-692c75ae3a2a": {
+      "title": "2. Tijdens afgelopen week had ik geen zin in eten, was mijn eetlust slecht.",
+      "type": "string",
+      "description": "",
+      "enum": [
+        "Zelden of nooit",
+        "Soms of weinig",
+        "Regelmatig",
+        "Meestal of altijd"
+      ],
+      "uniqueItems": true
+    }
+  }
+}
