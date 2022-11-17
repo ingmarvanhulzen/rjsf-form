@@ -3,17 +3,27 @@ import React from "react";
 function StepObjectFieldTemplate({ title, properties }) {
   const [index, setIndex] = React.useState(0);
 
-  const goBack = React.useCallback(() => {
-    if (index > 0) {
-      setIndex(index - 1);
-    }
-  }, [index, setIndex]);
+  const goBack = React.useCallback(
+    (event) => {
+      event.preventDefault();
 
-  const goForward = React.useCallback(() => {
-    if (index < properties.length - 1) {
-      setIndex(index + 1);
-    }
-  }, [properties, index, setIndex]);
+      if (index > 0) {
+        setIndex(index - 1);
+      }
+    },
+    [index, setIndex]
+  );
+
+  const goForward = React.useCallback(
+    (event) => {
+      event.preventDefault();
+
+      if (index < properties.length - 1) {
+        setIndex(index + 1);
+      }
+    },
+    [properties, index, setIndex]
+  );
 
   return (
     <div className="Container">

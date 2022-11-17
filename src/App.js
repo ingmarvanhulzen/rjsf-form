@@ -12,7 +12,7 @@ function App() {
     <Form
       schema={schema}
       uiSchema={uiSchema}
-      ObjectFieldTemplate={ObjectFieldTemplate}
+      ObjectFieldTemplate={StepObjectFieldTemplate}
     />
   );
 }
